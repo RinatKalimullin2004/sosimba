@@ -1,3 +1,22 @@
 img { margin-left: -5px }
 h4{ text-transform: uppercase; }
 h5 { text-align: center; text-transform: uppercase; }
+h3 { font-variant: small-caps; }
+section { background-color: white }
+body {
+	margin: 0px;
+	
+}
+
+.bg {
+	background-color: black;
+	height: 70px;
+}
+.li1 {
+	display: inline-block;
+	padding: 13px;
+	color:white;
+	font-size: 25px;
+	position: relative;
+	top: 4px;
+	}
